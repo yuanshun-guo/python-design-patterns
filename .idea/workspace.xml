@@ -1,33 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="386266f6-8981-44a4-83f8-cdee7391147b" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ASUS_PC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1设计模式与面向对象/draft.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonDesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonDesignPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="F:/Py35/3.5/python.exe" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21GDTsaarXWXRwBY6jXb66m5ZP9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="draft" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonDesignPatterns" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1设计模式与面向对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1设计模式与面向对象/draft.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.draft" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="386266f6-8981-44a4-83f8-cdee7391147b" name="默认更改列表" comment="" />
       <created>1541768273016</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541768273016</updated>
+      <workItem from="1637558546276" duration="2243000" />
+      <workItem from="1637828183709" duration="1071000" />
     </task>
     <servers />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
+  <component name="WindowStateProjectService">
+    <state width="962" height="180" key="GridCell.Tab.0.bottom" timestamp="1637560889414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="962" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1637560889414" />
+    <state width="962" height="180" key="GridCell.Tab.0.center" timestamp="1637560889414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="962" height="180" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1637560889414" />
+    <state width="962" height="180" key="GridCell.Tab.0.left" timestamp="1637560889414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="962" height="180" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1637560889414" />
+    <state width="962" height="180" key="GridCell.Tab.0.right" timestamp="1637560889414">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="962" height="180" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1637560889414" />
+    <state x="564" y="49" key="SettingsEditor" timestamp="1637558711040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="49" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1637558711040" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_design_patterns$draft.coverage" NAME="draft Coverage Results" MODIFIED="1637559917249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1设计模式与面向对象" />
   </component>
 </project>
